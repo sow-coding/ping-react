@@ -6,6 +6,6 @@ Ce projet démontre ma maitrise des expressions régulières javascript (RegExp)
 
 English/Anglais:
 
-Hello everyone, here is the source code of one of my site integration in HTML CSS (Responsive) and some javascript features.
+Hello everyone, here is the source code of one of my site integration in HTML CSS (Responsive) and some React.js ( I start learn this framework ) features.
 
 This project demonstrates my mastery of javascript regular expressions (RegExp) for form validation.
