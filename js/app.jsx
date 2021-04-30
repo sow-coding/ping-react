@@ -61,10 +61,6 @@ class Center extends React.Component {
     };
 };
 
-function testEmail () {
-    const emailRegExp = new RegExp('^[a-zA-Z0-9.-_]+[@]{1}[a-zA-Z0-9.-_]+[.]{1}[a-z]{2,10}$', 'g');
-    const mail = {}
-}
 
 class Bottom extends React.Component {
     render() {
@@ -88,7 +84,7 @@ class Bottom extends React.Component {
 
 class Coded extends React.Component {
     render() {
-        return <p id="coded">© Coded by <a href="#" target="_blank" id="coded-link">Sow-coding</a></p>
+        return <p id="coded">© Coded by <a href="https://github.com/sow-coding/ping-react" target="_blank" id="coded-link">Sow-coding</a></p>
     }
 }
 
